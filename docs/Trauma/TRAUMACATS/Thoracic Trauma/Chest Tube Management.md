@@ -64,6 +64,12 @@ Structured management pathway for patients with **pneumothorax (PTX)**, **hemopn
    - **Poor candidate:** IPFT  
    - **Good candidate:** VATS/thoracotomy
 
+## Trauma and Acute Care Surgery (ACS) Policy on Chest Tube Placement
+- The **decision and placement** of chest tubes in **trauma patients** are determined by the **Trauma Chief or Trauma Resident**.  
+- If a patient is evaluated by the **Emergency Department (ED)** for **non-trauma-related effusion** (e.g., malignant or parapneumonic effusion), the ED will **consult ACS** for assistance with chest tube management.  
+- **ACS will supervise** the procedure, but the **ED resident** performs the **chest tube insertion** under ACS supervision.  
+- **All chest tube placements** require **post-procedural imaging** and **documentation of supervision** in the medical record.
+
 ## Red Flags / Urgent Triggers
 - Worsening PTX or new air leak  
 - Drainage **>300 mL/24h**  
@@ -75,5 +81,5 @@ Structured management pathway for patients with **pneumothorax (PTX)**, **hemopn
 - **Washington University Department of Surgery, 2024.** *The Washington Manual of Surgery, 9th Edition.*  
 - **Cameron JL, Cameron AM.** *Current Surgical Therapy, 14th Edition, Elsevier, 2023.*  
 - **de Virgilio C, Grigorian A.** *Surgery: A Case-Based Clinical Review, 2nd Edition, Springer, 2020.*  
-- **EAST Practice Management Guidelines Committee.** *Management of Retained Hemothorax After Trauma, 2018.*  
-- **Institutional Trauma and APS Protocols, 2025.*
+- **EAST Practice Management Guidelines Committee, 2018.** *Management of Retained Hemothorax After Trauma.*  
+- **Institutional Trauma and ACS Policies, 2025.*
