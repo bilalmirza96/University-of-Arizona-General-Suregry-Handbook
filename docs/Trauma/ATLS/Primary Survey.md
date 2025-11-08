@@ -1,4 +1,4 @@
-# Primary Survey and Resuscitation (ATLS-Based PMG)
+# Primary Survey and Resuscitation 
 
 ## Principles
 The primary survey is a structured, rapid assessment to identify and manage **immediately life-threatening injuries**.  
