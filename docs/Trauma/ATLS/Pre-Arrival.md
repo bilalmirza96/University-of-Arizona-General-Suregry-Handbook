@@ -1,4 +1,4 @@
-# Pre-Arrival and Trauma Bay Preparation (ATLS-Based PMG)
+# Pre-Arrival and Trauma Bay Preparation 
 
 ## Principles
 Trauma resuscitation begins **before patient arrival**.  
