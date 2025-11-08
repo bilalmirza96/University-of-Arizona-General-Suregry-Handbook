@@ -1,4 +1,4 @@
-# Secondary Survey and Definitive Management (ATLS-Based PMG)
+# Secondary Survey 
 
 ## Principles
 The secondary survey begins **after completion of the primary survey and initial resuscitation** once the patient is hemodynamically stable.  
