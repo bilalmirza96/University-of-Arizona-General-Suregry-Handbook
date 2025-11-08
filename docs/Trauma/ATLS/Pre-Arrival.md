@@ -1,4 +1,4 @@
-# Pre-Arrival and Trauma Bay Preparation 
+# Pre-Arrival 
 
 ## Principles
 Trauma resuscitation begins **before patient arrival**.  
